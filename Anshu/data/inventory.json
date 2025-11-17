@@ -1,0 +1,39 @@
+{
+  "stock_available": 30000,
+  "out_of_stock_items": 15,
+  "inventory_turnover_ratio": 5.2,
+  "supplier_performance_score": 78,
+  "category_stock": [
+    {"category": "Electronics", "stock": 12000, "threshold": 5000},
+    {"category": "Clothing", "stock": 8500, "threshold": 3000},
+    {"category": "Home & Living", "stock": 6500, "threshold": 2500},
+    {"category": "Accessories", "stock": 3000, "threshold": 1000}
+  ],
+  "top_selling_products": [
+    {"product": "Wireless Headphones", "units_sold": 2500, "stock": 450, "status": "In Stock"},
+    {"product": "Smart Watch", "units_sold": 1950, "stock": 320, "status": "In Stock"},
+    {"product": "Laptop Stand", "units_sold": 3000, "stock": 680, "status": "In Stock"},
+    {"product": "USB-C Cable", "units_sold": 9000, "stock": 1200, "status": "In Stock"},
+    {"product": "Phone Case", "units_sold": 7600, "stock": 950, "status": "In Stock"},
+    {"product": "Bluetooth Speaker", "units_sold": 1800, "stock": 0, "status": "Out of Stock"},
+    {"product": "Wireless Mouse", "units_sold": 2200, "stock": 180, "status": "Low Stock"},
+    {"product": "Keyboard", "units_sold": 1500, "stock": 0, "status": "Out of Stock"},
+    {"product": "Monitor Stand", "units_sold": 1100, "stock": 250, "status": "In Stock"},
+    {"product": "Desk Mat", "units_sold": 2800, "stock": 420, "status": "In Stock"}
+  ],
+  "supplier_comparison": [
+    {"supplier": "TechSupply Co.", "delivery_time": 5, "quality_score": 85, "price_score": 75, "total_score": 80},
+    {"supplier": "Global Electronics", "delivery_time": 7, "quality_score": 90, "price_score": 70, "total_score": 78},
+    {"supplier": "FastParts Inc.", "delivery_time": 3, "quality_score": 75, "price_score": 85, "total_score": 82},
+    {"supplier": "Premium Goods", "delivery_time": 6, "quality_score": 88, "price_score": 72, "total_score": 79},
+    {"supplier": "Budget Supplies", "delivery_time": 8, "quality_score": 70, "price_score": 90, "total_score": 76}
+  ],
+  "low_stock_items": [
+    {"product": "Bluetooth Speaker", "current_stock": 0, "reorder_level": 50},
+    {"product": "Keyboard", "current_stock": 0, "reorder_level": 30},
+    {"product": "Wireless Mouse", "current_stock": 180, "reorder_level": 200},
+    {"product": "Gaming Chair", "current_stock": 5, "reorder_level": 20},
+    {"product": "Standing Desk", "current_stock": 8, "reorder_level": 15}
+  ]
+}
+

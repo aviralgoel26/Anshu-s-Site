@@ -1,0 +1,55 @@
+{
+  "total_revenue": 1200000,
+  "profit_margin": 18,
+  "total_orders": 24000,
+  "customer_satisfaction": 88,
+  "monthly_sales": [
+    {"month": "Jan", "revenue": 85000, "orders": 1800},
+    {"month": "Feb", "revenue": 92000, "orders": 1950},
+    {"month": "Mar", "revenue": 105000, "orders": 2100},
+    {"month": "Apr", "revenue": 98000, "orders": 2000},
+    {"month": "May", "revenue": 112000, "orders": 2250},
+    {"month": "Jun", "revenue": 125000, "orders": 2400},
+    {"month": "Jul", "revenue": 118000, "orders": 2300},
+    {"month": "Aug", "revenue": 132000, "orders": 2500},
+    {"month": "Sep", "revenue": 128000, "orders": 2450},
+    {"month": "Oct", "revenue": 140000, "orders": 2600},
+    {"month": "Nov", "revenue": 135000, "orders": 2550},
+    {"month": "Dec", "revenue": 150000, "orders": 2800}
+  ],
+  "category_revenue": [
+    {"category": "Electronics", "revenue": 450000},
+    {"category": "Clothing", "revenue": 380000},
+    {"category": "Home & Living", "revenue": 220000},
+    {"category": "Accessories", "revenue": 150000}
+  ],
+  "regional_growth": [
+    {"region": "North America", "customers": 8500, "growth": 12},
+    {"region": "Europe", "customers": 7200, "growth": 15},
+    {"region": "Asia Pacific", "customers": 6800, "growth": 18},
+    {"region": "Latin America", "customers": 1500, "growth": 8}
+  ],
+  "daily_sales": [
+    {"date": "2024-01-01", "sales": 2100, "units": 120},
+    {"date": "2024-01-02", "sales": 2350, "units": 135},
+    {"date": "2024-01-03", "sales": 2200, "units": 128},
+    {"date": "2024-01-04", "sales": 2450, "units": 142},
+    {"date": "2024-01-05", "sales": 2300, "units": 150},
+    {"date": "2024-01-06", "sales": 2500, "units": 155},
+    {"date": "2024-01-07", "sales": 2400, "units": 148}
+  ],
+  "region_sales": [
+    {"region": "North", "sales": 450000},
+    {"region": "South", "sales": 380000},
+    {"region": "East", "sales": 220000},
+    {"region": "West", "sales": 150000}
+  ],
+  "product_performance": [
+    {"product": "Wireless Headphones", "sales": 125000, "units": 2500},
+    {"product": "Smart Watch", "sales": 98000, "units": 1950},
+    {"product": "Laptop Stand", "sales": 75000, "units": 3000},
+    {"product": "USB-C Cable", "sales": 45000, "units": 9000},
+    {"product": "Phone Case", "sales": 38000, "units": 7600}
+  ]
+}
+

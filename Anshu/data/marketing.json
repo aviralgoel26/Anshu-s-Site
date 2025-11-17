@@ -1,0 +1,37 @@
+{
+  "website_visits": 150000,
+  "conversion_rate": 3.5,
+  "ad_spend": 8000,
+  "best_campaign": "Discount July",
+  "social_media_engagement": [
+    {"platform": "Facebook", "engagement": 45000, "followers": 125000},
+    {"platform": "Instagram", "engagement": 68000, "followers": 180000},
+    {"platform": "Twitter", "engagement": 32000, "followers": 95000},
+    {"platform": "LinkedIn", "engagement": 15000, "followers": 45000},
+    {"platform": "TikTok", "engagement": 52000, "followers": 140000}
+  ],
+  "campaign_roi": [
+    {"campaign": "Spring Sale", "spend": 2000, "revenue": 45000, "roi": 2150},
+    {"campaign": "Summer Blast", "spend": 2500, "revenue": 62000, "roi": 2380},
+    {"campaign": "Discount July", "spend": 3000, "revenue": 85000, "roi": 2733},
+    {"campaign": "Back to School", "spend": 1800, "revenue": 38000, "roi": 2011},
+    {"campaign": "Holiday Special", "spend": 2200, "revenue": 55000, "roi": 2400}
+  ],
+  "customer_demographics": [
+    {"age_group": "18-24", "percentage": 25, "count": 6000},
+    {"age_group": "25-34", "percentage": 35, "count": 8400},
+    {"age_group": "35-44", "percentage": 22, "count": 5280},
+    {"age_group": "45-54", "percentage": 12, "count": 2880},
+    {"age_group": "55+", "percentage": 6, "count": 1440}
+  ],
+  "monthly_visits": [
+    {"month": "Jan", "visits": 12000},
+    {"month": "Feb", "visits": 13500},
+    {"month": "Mar", "visits": 14200},
+    {"month": "Apr", "visits": 15800},
+    {"month": "May", "visits": 16500},
+    {"month": "Jun", "visits": 17200},
+    {"month": "Jul", "visits": 18800}
+  ]
+}
+
