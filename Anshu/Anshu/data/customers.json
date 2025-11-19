@@ -1,0 +1,29 @@
+{
+  "total_customers": 24000,
+  "new_customers_today": 12,
+  "avg_order_value": 47,
+  "customer_segments": [
+    {"segment": "VIP", "count": 2400, "percentage": 10},
+    {"segment": "Regular", "count": 16800, "percentage": 70},
+    {"segment": "New", "count": 4800, "percentage": 20}
+  ],
+  "customer_acquisition": [
+    {"month": "Jan", "new_customers": 1800},
+    {"month": "Feb", "new_customers": 1950},
+    {"month": "Mar", "new_customers": 2100},
+    {"month": "Apr", "new_customers": 2000},
+    {"month": "May", "new_customers": 2250},
+    {"month": "Jun", "new_customers": 2400},
+    {"month": "Jul", "new_customers": 2300}
+  ],
+  "customer_satisfaction_trend": [
+    {"month": "Jan", "score": 85},
+    {"month": "Feb", "score": 86},
+    {"month": "Mar", "score": 87},
+    {"month": "Apr", "score": 88},
+    {"month": "May", "score": 88},
+    {"month": "Jun", "score": 89},
+    {"month": "Jul", "score": 88}
+  ]
+}
+
